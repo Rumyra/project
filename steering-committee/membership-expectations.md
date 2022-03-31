@@ -36,7 +36,7 @@ In support of these expectations,
 
 - Florian Scholz (Open Web Docs)
 - Robert Nyman (Google)
-- Rachel Andrew (Google)
+- Philip Jägenstedt (Google)
 - Dominique Hazael-Massieux (W3C)
 - Uchi Uchibeke (Coil)
 - Daniel Appelquist (Samsung)
@@ -49,16 +49,15 @@ In support of these expectations,
 - Will Bamberg (Open Web Docs)
 - Michael[tm] Smith (W3C)
 - Ruth John (Mozilla)
-- Dominic Cooney (Meta)
+- Joel Marcey (Facebook)
+- Dominic Cooney (Facebook)
 - Piotr Tomiak (JetBrains)
 - Jean-Yves Perrier (Open Web Docs)
 - Estelle Weyl (Open Web Docs)
-- Daniel Beck (Mozilla)
+- Dipika Bhattacharya (Mozilla)
 - Vinyl Da.i'gyu-Kazotetsu (Open Web Docs)
 
 ## Members emeriti
 
 - Adrian Hope-Bailie (Coil)
 - Hermina Condei (Mozilla)
-- Philip Jägenstedt (Google)
-- Joel Marcey (Facebook/Meta)
